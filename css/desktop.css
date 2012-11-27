@@ -1,0 +1,14 @@
+.header, .main-content, .footer {
+    max-width: 1000px;
+    width: 70%;
+}
+.content-inner {
+    width: 66%;
+    margin: 0 2%;
+    float: left;
+}
+.region-aside {
+    width: 26%;
+    margin: 0 2%;
+    float: left;
+}
